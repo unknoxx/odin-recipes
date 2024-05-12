@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin-recipes
 
 ## ODIN RECIPES HTML PROJECT
 
